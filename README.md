@@ -1,4 +1,3 @@
-@"
 # 🗞️ Global News Intelligence RAG
 
 > Production-grade Multilingual Multimodal RAG system for real-time global news analysis with knowledge graphs
@@ -140,9 +139,9 @@ MIT License - see LICENSE file
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Abdul Moiz**
+- GitHub: [@Abdul Moiz](https://github.com/moizishere-droid)
+- LinkedIn: [Abdul Moiz](https://www.linkedin.com/in/abdul-moiz-a70678265/)
 
 ---
 
@@ -153,4 +152,3 @@ Built as part of AI/ML Engineering portfolio for 2027 roles.
 ---
 
 **⭐ Star this repo if you find it useful!**
-"@ | Out-File -FilePath README.md -Encoding utf8
