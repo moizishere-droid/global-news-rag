@@ -1,0 +1,8 @@
+@"
+# Core dependencies (will be detailed in backend/requirements.txt)
+# This is a convenience file for quick setup
+
+# Install backend and frontend dependencies separately:
+# pip install -r backend/requirements.txt
+# pip install -r frontend/requirements.txt
+"@ | Out-File -FilePath requirements.txt -Encoding utf8
