@@ -1,0 +1,48 @@
+# Create .gitignore file
+@"
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models and large files
+*.pkl
+*.h5
+*.onnx
+*.pt
+*.pth
+
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Docker
+*.pid
+*.seed
+*.pid.lock
+"@ | Out-File -FilePath .gitignore -Encoding utf8
